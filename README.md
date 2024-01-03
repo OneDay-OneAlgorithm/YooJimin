@@ -4,9 +4,9 @@
 
 | 날짜 | 푼 문제 | 문제 풀이 여부 |
 | ---- | ------- | :--------------: |
-| 1/1  | [7576 토마토](https://www.acmicpc.net/problem/7576) | ✅              |
-| 1/2  | [4949 균형잡힌 세상](https://www.acmicpc.net/problem/4949)        | ✅             |
-| 1/3  |         |                |
+| 1/1  | [7576 BFS](https://www.acmicpc.net/problem/7576) | ✅              |
+| 1/2  | [4949 스택 활용](https://www.acmicpc.net/problem/4949)        | ✅             |
+| 1/3  |  [5430 덱](https://www.acmicpc.net/problem/5430)       | ✅               |
 | 1/4  |         |                |
 | 1/5  |         |                |
 | 1/6  |         |                |
