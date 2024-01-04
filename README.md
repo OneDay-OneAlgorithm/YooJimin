@@ -7,7 +7,7 @@
 | 1/1  | [7576](https://www.acmicpc.net/problem/7576) | BFS | ✅ |
 | 1/2  | [4949](https://www.acmicpc.net/problem/4949) | 스택 활용 | ✅ |
 | 1/3  | [5430](https://www.acmicpc.net/problem/5430) | 덱 | ✅ |
-| 1/4  | [1012](https://www.acmicpc.net/problem/1012) [1697](https://www.acmicpc.net/problem/1697) | BFS | ✅ |
+| 1/4  | [1012](https://www.acmicpc.net/problem/1012) [1697](https://www.acmicpc.net/problem/1697) [2146](https://www.acmicpc.net/problem/2146) | BFS | ✅ |
 | 1/5  |  |  |  |
 | 1/6  |  |  |  |
 | 1/7  |  |  |  |
