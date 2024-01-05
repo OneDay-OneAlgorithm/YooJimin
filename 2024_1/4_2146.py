@@ -1,4 +1,4 @@
-# 2145 다리 만들기
+# 2146 다리 만들기
 
 import sys
 from collections import deque
