@@ -9,7 +9,7 @@
 | 1/3  | [5430](https://www.acmicpc.net/problem/5430) | 덱 | ✅ |
 | 1/4  | [1012](https://www.acmicpc.net/problem/1012) [1697](https://www.acmicpc.net/problem/1697) [2146](https://www.acmicpc.net/problem/2146) | BFS | ✅ |
 | 1/5  | [2206](https://www.acmicpc.net/problem/2206) [1629](https://www.acmicpc.net/problem/1629) [10026](https://www.acmicpc.net/problem/10026) | BFS, 재귀, DFS | ✅ |
-| 1/6  | [10026](https://www.acmicpc.net/problem/10026) | BFS |  |
+| 1/6  | [10026](https://www.acmicpc.net/problem/10026) [7562](https://www.acmicpc.net/problem/7562) | BFS | ✅ |
 | 1/7  |  |  |  |
 | 1/8  |  |  |  |
 | 1/9  |  |  |  |
