@@ -11,7 +11,7 @@
 | 1/5  | [2206](https://www.acmicpc.net/problem/2206) [1629](https://www.acmicpc.net/problem/1629) [10026](https://www.acmicpc.net/problem/10026) | BFS, 재귀, DFS | ✅ |
 | 1/6  | [10026](https://www.acmicpc.net/problem/10026) [7562](https://www.acmicpc.net/problem/7562) [11559](https://www.acmicpc.net/problem/11559) | BFS, 시뮬레이션 | ✅ |
 | 1/7  | [15649](https://www.acmicpc.net/problem/15649) [1182](https://www.acmicpc.net/problem/1182) | 백트래킹 | ✅ |
-| 1/8  |  |  |  |
+| 1/8  | [17298](https://www.acmicpc.net/problem/17298) | 스택 | ✅ |
 | 1/9  |  |  |  |
 | 1/10 |  |  |  |
 | 1/11 |  |  |  |
