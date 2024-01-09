@@ -12,7 +12,7 @@
 | 1/6  | [10026](https://www.acmicpc.net/problem/10026) [7562](https://www.acmicpc.net/problem/7562) [11559](https://www.acmicpc.net/problem/11559) | BFS, 시뮬레이션 | ✅ |
 | 1/7  | [15649](https://www.acmicpc.net/problem/15649) [1182](https://www.acmicpc.net/problem/1182) | 백트래킹 | ✅ |
 | 1/8  | [17298](https://www.acmicpc.net/problem/17298) | 스택 | ✅ |
-| 1/9  | [6326](https://www.acmicpc.net/problem/6236) | 이진탐색 | ✅ |
+| 1/9  | [6236](https://www.acmicpc.net/problem/6236) | 이진탐색 | ✅ |
 | 1/10 |  |  |  |
 | 1/11 |  |  |  |
 | 1/12 |  |  |  |
