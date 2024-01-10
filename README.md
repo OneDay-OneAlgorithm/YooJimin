@@ -13,7 +13,7 @@
 | 1/7  | [15649](https://www.acmicpc.net/problem/15649) [1182](https://www.acmicpc.net/problem/1182) | 백트래킹 | ✅ |
 | 1/8  | [17298](https://www.acmicpc.net/problem/17298) | 스택 | ✅ |
 | 1/9  | [6236](https://www.acmicpc.net/problem/6236) | 이진탐색 | ✅ |
-| 1/10 |  |  |  |
+| 1/10 | [1439](https://www.acmicpc.net/problem/1439) | 구현 | ✅ |
 | 1/11 |  |  |  |
 | 1/12 |  |  |  |
 | 1/13 |  |  |  |
