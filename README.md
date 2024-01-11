@@ -14,7 +14,7 @@
 | 1/8  | [17298](https://www.acmicpc.net/problem/17298) | 스택 | ✅ |
 | 1/9  | [6236](https://www.acmicpc.net/problem/6236) | 이진탐색 | ✅ |
 | 1/10 | [1439](https://www.acmicpc.net/problem/1439) | 구현 | ✅ |
-| 1/11 |  |  |  |
+| 1/11 | [15683](https://www.acmicpc.net/problem/15683) | 시뮬레이션, DFS | ✅ |
 | 1/12 |  |  |  |
 | 1/13 |  |  |  |
 | 1/14 |  |  |  |
