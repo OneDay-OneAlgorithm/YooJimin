@@ -19,7 +19,7 @@
 | 1/13 | [11000](https://www.acmicpc.net/problem/11000) | 우선순위큐 | ✅ |
 | 1/14 | [2630](https://www.acmicpc.net/problem/2630) | 재귀(DFS) | ✅ |
 | 1/15 | [1931](https://www.acmicpc.net/problem/1931) | 그리디 | ✅ |
-| 1/16 | [1931](https://www.acmicpc.net/problem/1931) | 스택 | ✅ |
+| 1/16 | [3960](https://www.acmicpc.net/problem/3960) | 스택 | ✅ |
 | 1/17 |  |  |  |
 | 1/18 |  |  |  |
 | 1/19 |  |  |  |
