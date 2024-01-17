@@ -20,7 +20,7 @@
 | 1/14 | [2630](https://www.acmicpc.net/problem/2630) | 재귀(DFS) | ✅ |
 | 1/15 | [1931](https://www.acmicpc.net/problem/1931) | 그리디 | ✅ |
 | 1/16 | [3960](https://www.acmicpc.net/problem/3960) | 스택 | ✅ |
-| 1/17 | [2468](https://www.acmicpc.net/problem/2468) | BFS | ✅ |
+| 1/17 | [2468](https://www.acmicpc.net/problem/2468) [2573](https://www.acmicpc.net/problem/2573) | BFS | ✅ |
 | 1/18 |  |  |  |
 | 1/19 |  |  |  |
 | 1/20 |  |  |  |
