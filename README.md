@@ -21,7 +21,7 @@
 | 1/15 | [1931](https://www.acmicpc.net/problem/1931) | 그리디 | ✅ |
 | 1/16 | [3960](https://www.acmicpc.net/problem/3960) | 스택 | ✅ |
 | 1/17 | [2468](https://www.acmicpc.net/problem/2468) [2573](https://www.acmicpc.net/problem/2573) | BFS | ✅ |
-| 1/18 | [2583](https://www.acmicpc.net/problem/2583)] | BFS | ✅ |
+| 1/18 | [2583](https://www.acmicpc.net/problem/2583)] [2667](https://www.acmicpc.net/problem/2667)] | BFS | ✅ |
 | 1/19 |  |  |  |
 | 1/20 |  |  |  |
 | 1/21 |  |  |  |
