@@ -23,7 +23,7 @@
 | 1/17 | [2468](https://www.acmicpc.net/problem/2468) [2573](https://www.acmicpc.net/problem/2573) | BFS | ✅ |
 | 1/18 | [2583](https://www.acmicpc.net/problem/2583) [2667](https://www.acmicpc.net/problem/2667) [5014](https://www.acmicpc.net/problem/5014) [6593](https://www.acmicpc.net/problem/6593) [4179](https://www.acmicpc.net/problem/4179) | BFS | ✅ |
 | 1/19 | [9466](https://www.acmicpc.net/problem/9466) [two-sum](https://leetcode.com/problems/two-sum/) [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | DFS, BFS, 구현 | ✅ |
-| 1/20 |  |  |  |
+| 1/20 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers/) | 연결리스트 | ✅ |
 | 1/21 |  |  |  |
 | 1/22 |  |  |  |
 | 1/23 |  |  |  |
