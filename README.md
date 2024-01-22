@@ -26,7 +26,7 @@
 | 1/20 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers/) [majority-element](https://leetcode.com/problems/majority-element/) [remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [7569](https://www.acmicpc.net/problem/7569) | 연결리스트, 구현, BFS | ✅ |
 | 1/21 | [11650](https://www.acmicpc.net/problem/11650) | 정렬 | ✅ |
 | 1/22 | [5427](https://www.acmicpc.net/problem/5427) [11729](https://www.acmicpc.net/problem/11729) [1074](https://www.acmicpc.net/problem/1074) | BFS, 재귀 | ✅ |
-| 1/23 |  |  |  |
+| 1/23 | [17478](https://www.acmicpc.net/problem/17478) | 재귀 | ✅ |
 | 1/24 |  |  |  |
 | 1/25 |  |  |  |
 | 1/26 |  |  |  |
