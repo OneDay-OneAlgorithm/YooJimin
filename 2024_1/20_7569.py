@@ -6,6 +6,7 @@ input = sys.stdin.readline
 M, N, H = map(int, input().rstrip().split())
 arr = [[list(map(int, input().rstrip().split())) for _ in range(N)] for _ in range(H)]
 visited = [[[False]*M for _ in range(N)] for _ in range(H)]
+day = 0
 
 dq = deque()
 dx, dy, dz = (-1, 1, 0, 0, 0, 0), (0, 0, -1, 1, 0, 0), (0, 0, 0, 0, -1, 1)
@@ -15,7 +16,7 @@ def bfs():
     x, y, z = dq.popleft()
     for i in range(6):
       nx, ny, nz = x + dx[i], y + dy[i], z + dz[i]
-      if 0 <= nx < M and 0 <= ny < N and 0 <= nz < H:
+      if 0 <= nx < H and 0 <= ny < N and 0 <= nz < M:
         # 방문하지 않은 토마토 중 익지 않은 토마토
         if not visited[nx][ny][nz] and arr[nx][ny][nz] == 0:
           arr[nx][ny][nz] = arr[x][y][z] + 1 # 익었다고 처리
@@ -40,3 +41,5 @@ for tomato in arr: # 층
         print(-1)
         sys.exit(0)
     day = max(day, max(tom)) # 모두 1일 경우 0 출력
+
+print(day - 1)
