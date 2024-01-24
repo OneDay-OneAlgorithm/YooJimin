@@ -27,7 +27,7 @@
 | 1/21 | [11650](https://www.acmicpc.net/problem/11650) | 정렬 | ✅ |
 | 1/22 | [5427](https://www.acmicpc.net/problem/5427) [11729](https://www.acmicpc.net/problem/11729) [1074](https://www.acmicpc.net/problem/1074) | BFS, 재귀 | ✅ |
 | 1/23 | [17478](https://www.acmicpc.net/problem/17478) [1780](https://www.acmicpc.net/problem/1780) | 재귀(DFS) | ✅ |
-| 1/24 |  |  |  |
+| 1/24 | [2630](https://www.acmicpc.net/problem/2630) | 재귀(DFS) | ✅ |
 | 1/25 |  |  |  |
 | 1/26 |  |  |  |
 | 1/27 |  |  |  |
