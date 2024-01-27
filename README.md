@@ -30,7 +30,7 @@
 | 1/24 | [2630](https://www.acmicpc.net/problem/2630) [1992](https://www.acmicpc.net/problem/1992) [2447](https://www.acmicpc.net/problem/2447) [14956](https://www.acmicpc.net/problem/14956) | 재귀(DFS) | ✅ |
 | 1/25 | [23971](https://www.acmicpc.net/problem/23971) [5073](https://www.acmicpc.net/problem/5073) [2292](https://www.acmicpc.net/problem/2292) [1157](https://www.acmicpc.net/problem/1157) | 수학, 구현 | ✅ |
 | 1/26 | [11047](https://www.acmicpc.net/problem/11047) | 그리디 | ✅ |
-| 1/27 | [11723](https://www.acmicpc.net/problem/11723) | 구현 | ✅ |
+| 1/27 | [11723](https://www.acmicpc.net/problem/11723) [9655](https://www.acmicpc.net/problem/9655) | 구현 | ✅ |
 | 1/28 |  |  |  |
 | 1/29 |  |  |  |
 | 1/30 |  |  |  |
