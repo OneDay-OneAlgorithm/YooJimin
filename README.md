@@ -1,5 +1,7 @@
 ## Merry 1일 1알고리즘 🍀🔥
 
+![](https://api.mosu.blog/OneDay-OneAlgorithm/YooJimin)
+
 ## 1월
 
 | 날짜 | 푼 문제 | 문제 유형 | 문제 풀이 여부 |
