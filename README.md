@@ -31,7 +31,7 @@
 | 1/25 | [23971](https://www.acmicpc.net/problem/23971) [5073](https://www.acmicpc.net/problem/5073) [2292](https://www.acmicpc.net/problem/2292) [1157](https://www.acmicpc.net/problem/1157) | 수학, 구현 | ✅ |
 | 1/26 | [11047](https://www.acmicpc.net/problem/11047) | 그리디 | ✅ |
 | 1/27 | [11723](https://www.acmicpc.net/problem/11723) [9655](https://www.acmicpc.net/problem/9655) [10431](https://www.acmicpc.net/problem/10431) | 구현 | ✅ |
-| 1/28 |  |  |  |
+| 1/28 | [2559](https://www.acmicpc.net/problem/2559) | 투포인터 | ✅ |
 | 1/29 |  |  |  |
 | 1/30 |  |  |  |
 | 1/31 |  |  |  |
