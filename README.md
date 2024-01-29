@@ -1,6 +1,6 @@
 ## Merry 1일 1알고리즘 🍀🔥
 
-![](https://api.mosu.blog/OneDay-OneAlgorithm/YooJimin)
+![](https://api.mosu.blog/OneDay-OneAlgorithm/YooJimin?since=2024-01-01)
 
 ## 1월
 
