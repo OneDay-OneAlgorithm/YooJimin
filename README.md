@@ -35,7 +35,7 @@
 | 1/27 | [11723](https://www.acmicpc.net/problem/11723) [9655](https://www.acmicpc.net/problem/9655) [10431](https://www.acmicpc.net/problem/10431) | 구현 | ✅ |
 | 1/28 | [2559](https://www.acmicpc.net/problem/2559) | 투포인터 | ✅ |
 | 1/29 | [8979](https://www.acmicpc.net/problem/2559) [7568](https://www.acmicpc.net/problem/7568) | 구현, 브르투포스 | ✅ |
-| 1/30 |  |  |  |
+| 1/30 | [20125](https://www.acmicpc.net/problem/20125) | 구현 | ✅ |
 | 1/31 |  |  |  |
 
 ## 2월
