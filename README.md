@@ -43,7 +43,7 @@
 | 날짜 | 푼 문제 | 문제 유형 | 문제 풀이 여부 |
 | ---- | ------- | ------ | :------: |
 | 2/1  | [9017](https://www.acmicpc.net/problem/9017) [17266](https://www.acmicpc.net/problem/17266) | 구현, 이분탐색 | ✅ |
-| 2/2  | [2512](https://www.acmicpc.net/problem/2512) [21921](https://www.acmicpc.net/problem/21921) [1515](https://www.acmicpc.net/problem/1515) | 이분탐색 | ✅ |
+| 2/2  | [2512](https://www.acmicpc.net/problem/2512) [21921](https://www.acmicpc.net/problem/21921) [1515](https://www.acmicpc.net/problem/1515) | 이분탐색, 구현, 슬라이딩 윈도우, 완전탐색 | ✅ |
 | 2/3  |  |  |  |
 | 2/4  |  |  |  |
 | 2/5  |  |  |  |
