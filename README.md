@@ -46,7 +46,7 @@
 | 2/2  | [2512](https://www.acmicpc.net/problem/2512) [21921](https://www.acmicpc.net/problem/21921) [1515](https://www.acmicpc.net/problem/1515) | 이분탐색, 구현, 슬라이딩 윈도우, 완전탐색 | ✅ |
 | 2/3  | [19941](https://www.acmicpc.net/problem/19941) [17484](https://www.acmicpc.net/problem/17484) | 구현, DP, 브루트포스, DFS  | ✅ |
 | 2/4  | [2607](https://www.acmicpc.net/problem/2607) | 구현, 문자열 | ✅ |
-| 2/5  |  |  |  |
+| 2/5  | [3758](https://www.acmicpc.net/problem/3758) | 구현, 정렬 | ✅ |
 | 2/6  |  |  |  |
 | 2/7  |  |  |  |
 | 2/8  |  |  |  |
