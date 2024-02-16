@@ -57,7 +57,7 @@
 | 2/13 | [1927](https://www.acmicpc.net/problem/1927) | 우선순위큐, 최소힙 | ✅ |
 | 2/14 | [20006](https://www.acmicpc.net/problem/20006) [11501](https://www.acmicpc.net/problem/11501) | 구현, 시뮬레이션, 그리디 | ✅ |
 | 2/15 | [2512](https://www.acmicpc.net/problem/2512) | 이분탐색 | ✅ |
-| 2/16 |  |  |  |
+| 2/16 | [1920](https://www.acmicpc.net/problem/1920) | DP | ✅ |
 | 2/17 |  |  |  |
 | 2/18 |  |  |  |
 | 2/19 |  |  |  |
