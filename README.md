@@ -58,7 +58,7 @@
 | 2/14 | [20006](https://www.acmicpc.net/problem/20006) [11501](https://www.acmicpc.net/problem/11501) | 구현, 시뮬레이션, 그리디 | ✅ |
 | 2/15 | [2512](https://www.acmicpc.net/problem/2512) | 이분탐색 | ✅ |
 | 2/16 | [1920](https://www.acmicpc.net/problem/1920) | DP | ✅ |
-| 2/17 |  |  |  |
+| 2/17 | [11279](https://www.acmicpc.net/problem/11279) | 힙 | ✅ |
 | 2/18 |  |  |  |
 | 2/19 |  |  |  |
 | 2/20 |  |  |  |
