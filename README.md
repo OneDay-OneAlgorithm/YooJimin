@@ -59,7 +59,7 @@
 | 2/15 | [2512](https://www.acmicpc.net/problem/2512) | 이분탐색 | ✅ |
 | 2/16 | [1920](https://www.acmicpc.net/problem/1920) | DP | ✅ |
 | 2/17 | [11279](https://www.acmicpc.net/problem/11279) | 힙 | ✅ |
-| 2/18 |  |  |  |
+| 2/18 | [9660](https://www.acmicpc.net/problem/9660) | 게임 이론 | ✅ |
 | 2/19 |  |  |  |
 | 2/20 |  |  |  |
 | 2/21 |  |  |  |
