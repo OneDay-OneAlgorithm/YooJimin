@@ -63,7 +63,7 @@
 | 2/19 | [1406](https://www.acmicpc.net/problem/1406) | 자료구조, 스택 | ✅ |
 | 2/20 | [PRGRMS-체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?itm_content=course14743) | 구현 | ✅ |
 | 2/21 | [2075](https://www.acmicpc.net/problem/2075) | 우선순위큐 | ✅ |
-| 2/22 |  |  |  |
+| 2/22 | [2304](https://www.acmicpc.net/problem/2304) | 브루트포스 | ✅ |
 | 2/23 |  |  |  |
 | 2/24 |  |  |  |
 | 2/25 |  |  |  |
