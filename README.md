@@ -34,7 +34,7 @@
 | 1/26 | [11047](https://www.acmicpc.net/problem/11047) | 그리디 | ✅ |
 | 1/27 | [11723](https://www.acmicpc.net/problem/11723) [9655](https://www.acmicpc.net/problem/9655) [10431](https://www.acmicpc.net/problem/10431) | 구현 | ✅ |
 | 1/28 | [2559](https://www.acmicpc.net/problem/2559) | 투포인터 | ✅ |
-| 1/29 | [8979](https://www.acmicpc.net/problem/2559) [7568](https://www.acmicpc.net/problem/7568) | 구현, 브르투포스 | ✅ |
+| 1/29 | [8979](https://www.acmicpc.net/problem/2559) [7568](https://www.acmicpc.net/problem/7568) | 구현, 브루트포스 | ✅ |
 | 1/30 | [20125](https://www.acmicpc.net/problem/20125) [1205](https://www.acmicpc.net/problem/1205) | 구현 | ✅ |
 | 1/31 | [1244](https://www.acmicpc.net/problem/1244)  | 구현 | ✅ |
 
@@ -64,7 +64,7 @@
 | 2/20 | [PRGRMS-체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?itm_content=course14743) | 구현 | ✅ |
 | 2/21 | [2075](https://www.acmicpc.net/problem/2075) | 우선순위큐 | ✅ |
 | 2/22 | [2304](https://www.acmicpc.net/problem/2304) | 브루트포스 | ✅ |
-| 2/23 |  |  |  |
+| 2/23 | [12847](https://www.acmicpc.net/problem/12847) | 슬라이딩 윈도우 | ✅ |
 | 2/24 |  |  |  |
 | 2/25 |  |  |  |
 | 2/26 |  |  |  |
