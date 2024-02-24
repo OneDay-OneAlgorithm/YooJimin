@@ -65,7 +65,7 @@
 | 2/21 | [2075](https://www.acmicpc.net/problem/2075) | 우선순위큐 | ✅ |
 | 2/22 | [2304](https://www.acmicpc.net/problem/2304) | 브루트포스 | ✅ |
 | 2/23 | [12847](https://www.acmicpc.net/problem/12847) | 슬라이딩 윈도우 | ✅ |
-| 2/24 |  |  |  |
+| 2/24 | [2018](https://www.acmicpc.net/problem/2018) | 투포인터 | ✅ |
 | 2/25 |  |  |  |
 | 2/26 |  |  |  |
 | 2/27 |  |  |  |
