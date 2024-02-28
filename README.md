@@ -69,5 +69,5 @@
 | 2/25 | [1138](https://www.acmicpc.net/problem/1138) | 그리디 | ✅ |
 | 2/26 | [1463](https://www.acmicpc.net/problem/1463) | DP | ✅ |
 | 2/27 | [6549](https://www.acmicpc.net/problem/6549) | 스택 | ✅ |
-| 2/28 |  |  |  |
+| 2/28 | [2661](https://www.acmicpc.net/problem/2661) | BFS | ✅ |
 | 2/29 |  |  |  |
