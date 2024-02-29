@@ -70,4 +70,4 @@
 | 2/26 | [1463](https://www.acmicpc.net/problem/1463) | DP | ✅ |
 | 2/27 | [6549](https://www.acmicpc.net/problem/6549) | 스택 | ✅ |
 | 2/28 | [2661](https://www.acmicpc.net/problem/2661) | BFS | ✅ |
-| 2/29 |  |  |  |
+| 2/29 | [2504](https://www.acmicpc.net/problem/2504) | 스택활용 | ✅ |
